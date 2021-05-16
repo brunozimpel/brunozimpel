@@ -31,8 +31,8 @@
 <br/>
 
 Electronics Engineer working in the software industry, background with Data
-Analytics and Product Management, currently working as a Project Manager @
-[Brick Abode](https://www.brickabode.com/).
+Analytics, Software Development, and Product Management, currently working as a
+Project Manager @ [Brick Abode](https://www.brickabode.com/).
 
 I'm passionate about learning new things and finding ways to deliver business
 value through tech. Data Science enthusiast, currently learning more about Data

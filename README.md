@@ -27,6 +27,8 @@
   /> </a>
 
 <br/>
+<br/>
+<br/>
 
 Electronics Engineer working in the software industry, background with Data
 Analytics and Product Management, currently working as a Project Manager @

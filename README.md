@@ -26,6 +26,8 @@
   src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"
   /> </a>
 
+<br/>
+
 Electronics Engineer working in the software industry, background with Data
 Analytics and Product Management, currently working as a Project Manager @
 [Brick Abode](https://www.brickabode.com/).

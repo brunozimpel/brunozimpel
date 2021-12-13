@@ -11,6 +11,11 @@
   src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Gmail.svg"
   /> </a>
 
+<a href="https://medium.com/@brunozimpel"> <img align="left" alt="Bruno's Medium"
+  width="22px"
+  src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/medium.svg"
+  /> </a>
+
 <a href="https://github.com/brunozimpel"> <img align="left" alt="Bruno's Github"
   width="22px"
   src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"
@@ -19,7 +24,7 @@
 <a href=https://www.instagram.com/brunozimpel/> <img align="left"
   alt="Bruno's Instagram" width="22px"
   src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Instagram.svg"
-  /> </a>
+  /> </a> 
   
 <a href="https://open.spotify.com/user/22tbu2ca4z6xncdglwnxizdeq?si=54dc9857945d40b8">
   <img align="left" alt="Abhishek's Spotify" width="22px"

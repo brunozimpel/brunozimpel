@@ -41,4 +41,4 @@ Project Manager @ [Brick Abode](https://www.brickabode.com/).
 
 I'm passionate about learning new things and finding ways to deliver business
 value through tech. Data Science enthusiast, currently learning more about data
-products.
+products, Web 3.0, Blockchain, and NFTs.

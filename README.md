@@ -1,4 +1,4 @@
-### Hello there <img src="https://raw.githubusercontent.com/brunozimpel/brunozimpel/master/assets/hello.gif" width="25px"> I'm Bruno
+### Hello there <img src="https://raw.githubusercontent.com/brunozimpel/brunozimpel/master/assets/hello.gif" width="30"> I'm Bruno
 ----------------------
 
 <a href="https://www.linkedin.com/in/bruno-zimpel/"> <img align="left"

@@ -38,7 +38,7 @@
 
 Electronics Engineer working in the software industry, with a background in Data
 Analytics, Software Development, and Product Management, currently working as a
-Project Manager @ [Brick Abode](https://www.brickabode.com/).
+Product Manager and Team Lead @ [Pollum](https://pollum.io/).
 
 I'm passionate about learning new things and finding ways to deliver business
 value through tech. Data Science enthusiast, currently learning more about data

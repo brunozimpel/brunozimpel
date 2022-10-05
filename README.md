@@ -41,5 +41,5 @@ helping people grow professionally. I'm an Electronics Engineer with background
 in Data Analytics, Software Development, and Product Management.
 
 With a demonstrated history of leading engineers to build and scale digital
-products, I'm now leading a world-class software development team to make the
+products, I'm now leading a world-class software development team to create the
 next big things in the Web3 space.

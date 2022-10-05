@@ -36,10 +36,10 @@
 <br/>
 <br/>
 
-Electronics Engineer working in the software industry, with a background in Data
-Analytics, Software Development, and Product Management, currently working as a
-Product Manager and Team Lead @ [Pollum](https://pollum.io/).
+Passionate about new technologies, delivering business value through tech, and
+helping people grow professionally. I'm an Electronics Engineer with background
+in Data Analytics, Software Development, and Product Management.
 
-I'm passionate about learning new things and finding ways to deliver business
-value through tech. Data Science enthusiast, currently learning more about data
-products, Web 3.0, Blockchain, and NFTs.
+With a demonstrated history of leading engineers to build and scale digital
+products, I'm now leading a world-class software development team to make the
+next big things in the Web3 space.

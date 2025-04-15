@@ -36,10 +36,14 @@
 <br/>
 <br/>
 
-Passionate about new technologies, delivering business value through tech, and
-helping people grow professionally. I'm an Electronics Engineer with background
-in Data Analytics, Software Development, and Product Management.
+I enjoy solving complex problems with technology and building teams that turn ideas into real impact. With a background in Electronics Engineering, Data Analytics, Software Development, and Product Management, I’ve worked across different industries to create and scale digital products.
 
-With a demonstrated history of leading engineers to build and scale digital
-products, I'm now leading a world-class software development team to create the
-next big things in the Web3 space.
+With experience in startups and fast-paced environments, I’ve led engineering teams to build and scale digital products from concept to a 200k+ user base. I specialize in Blockchain, Web3, and AI, defining efficient development processes and fostering a high-performance culture. Beyond technology, I focus on mentoring talent and collaborating with designers, developers, and marketing analysts to drive innovation.
+
+Currently, I’m exploring AI Agent frameworks and how technology can simplify traditionally complex industries. I have worked with teams across South America, Europe, the US, and Asia, bringing together diverse expertise to build scalable and impactful solutions.
+
+Now leading a world-class software development team, I'm dedicated to shaping the future of digital products.
+
+I often share insights on lessons learned, improving processes, and personal experiences—both in work and life. If you're interested, you can check more on https://medium.com/@brunozimpel
+
+Always happy to connect and exchange ideas about tech, startups, and scaling teams. Feel free to reach out via LinkedIn.

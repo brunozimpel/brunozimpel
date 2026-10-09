@@ -11,12 +11,14 @@
 <br/>
 <br/>
 
-I've been curious about how things work for as long as I can remember, taking things apart, wanting to build them myself. That led me to Electronics Engineering, then to Data Analytics and backend development, and eventually to Product Management, where I've spent the last 7 years leading teams that build financial and crypto products.
+I've been curious about how things work for as long as I can remember, taking things apart and wanting to build them myself. That led me to electronics engineering, then to data analytics and backend development, and eventually to product, where I've spent the last seven years.
 
-I've worked on trading platforms, digital wallets, insurance protocols, super apps, and payment integrations, shipping products from scratch and scaling them across mobile and web. I've lived in Brazil, Italy, the US, and now Berlin, working with teams across APAC, India, EMEA, and the Americas. Along the way, I've done a bit of everything: hiring, system design, stakeholder management, sprint processes, and the occasional macOS native app when I need a break from meetings.
+I've worked on trading platforms, digital wallets, insurance protocols, super-apps and payment integrations, from zero-to-one launches to scaling products across mobile and web.
 
-In 2025, I co-founded [Kmino](https://www.kmino.io), a software agency. Before that, I spent years as a product and engineering lead across startups at different stages, building teams, defining processes, and figuring out how to ship reliably when everything is moving fast.
+The engineering background never really left, and it shapes how I lead: close to the architecture, comfortable with technical trade-offs, and part of the same conversations as the engineers. The rest is a bit of everything. Hiring, system design, stakeholder management, sprint processes, CI/CD, platform migrations.
 
-I write occasionally about process, leadership, and lessons learned at [medium.com/@brunozimpel](https://medium.com/@brunozimpel) and [kmino.io/blog](https://www.kmino.io/blog).
+Since October 2026 I'm a Senior Product Manager at [Bitpanda](https://www.bitpanda.com/), working on Vision, their DeFi wallet. Before that, I co-founded [Kmino](https://www.kmino.io), a software agency, in 2025 and led product there until early 2026. Earlier still, years as a product and engineering lead at startups at different stages, building teams, defining processes, and figuring out how to ship reliably when everything is moving fast.
+
+I've lived in Brazil, Italy, the US and now Berlin, working with teams across APAC, India, EMEA and the Americas.
 
 Always happy to talk, reach out on [LinkedIn](https://www.linkedin.com/in/bruno-zimpel/).
